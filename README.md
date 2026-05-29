@@ -1,16 +1,63 @@
-## Hi there 👋
+# 안녕하세요, 김대규입니다
 
-<!--
-**ByeolNabi/ByeolNabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📅 교육 이력
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **2018.03 ~ 2025.02** | 동의대학교 응용소프트웨어공학과 졸업
+*   **2025.07 ~ 2026.07** | 삼성청년SW·AI아카데미 (SSAFY) 
+
+---
+
+## 🏆 수상
+
+*   **특화프로젝트 우수상** (삼성전자 주식회사) | 2026.03
+    *   스마트팜 AIoT 반려식물 - 팜밀리 (백엔드 담당)
+*   **공통프로젝트 우수상** (삼성전자 주식회사) | 2026.02
+    *   영상 분석 AI 클라이밍 코치 서비스 - 디디고 (Android, AI 전처리 최적화)
+*   **제12회 K-해커톤 3등 (한국콘텐츠학회장상)** | 2024.10
+    *   과학기술정보통신부 주최 / 정보통신산업진흥원 주관
+    *   GPS·AR 활용 대피소 안내 및 다국어 맞춤형 재난 정보 서비스 (백엔드 담당)
+*   **2024 지식재산 썸머스쿨 대상 (특허청장상)** | 2024.06
+    *   한국발명진흥회 주최 (발명 및 사업 기획 대회)
+    *   체형 교정용 구독형 깔창 BM 및 압력 데이터 기반 특허 신청서 작성
+
+---
+
+## 💻 프로젝트
+
+#### 팜밀리
+*   **소개:** 스마트팜 AIoT 반려식물 서비스
+*   **기간:** 
+*   **역할:** 
+*   **구현 내용:**
+    *   
+
+#### 디디고
+*   **소개:** 영상 분석 AI 클라이밍 코치 서비스
+*   **기간:** 
+*   **역할:** 
+*   **구현 내용:**
+    *   
+
+#### 삡삡
+*   **소개:** 이중통신 기반 TP - IPC - EtherCAT 모터 제어 서비스
+*   **기간:** 
+*   **역할:** 
+*   **구현 내용:**
+    *   
+
+---
+
+## 📜 자격증
+
+*   **정보처리기사** | 2024.06
+*   **SQLD (SQL 개발자)** | 2025.04
+*   **ISTQB CTFL (소프트웨어 테스팅 국제자격증)** | 2023.07
+*   **OPIc IM1** | 2025.03
+
+---
+## 📫 Contact
+
+*   **Email:** lemoncastella@gmail.com
+*   **GitHub:** https://github.com/ByeolNabi
